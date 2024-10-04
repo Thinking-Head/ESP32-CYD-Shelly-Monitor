@@ -7,3 +7,6 @@ This board will periodically query Shelly EM to retrieve power measurements from
 
 
 ![alt text](https://github.com/Thinking-Head/ESP32-CYD-Shelly-Monitor/blob/main/pics/IMG_4521-min.jpg?raw=true)
+
+<img src="Thinking-Head/ESP32-CYD-Shelly-Monitor/blob/main/pics/IMG_4521-min.jpg" width=50% height=50%>
+
