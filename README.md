@@ -8,7 +8,7 @@ This board will periodically query Shelly EM to retrieve power measurements from
 
 <img src="https://github.com/user-attachments/assets/23b1ce46-f3b6-439a-ad1f-dfba56192962" width=60% height=60%>
 <img src="https://github.com/user-attachments/assets/5e3eedcb-6735-46ae-8a34-f188073be404" width=65% height=65%>
-
+# .
 <img src="https://github.com/user-attachments/assets/302a1624-cace-4747-adf0-6aba08cff229" width=40% height=40%>
 <img src="https://github.com/user-attachments/assets/7734bf8d-cc7c-4c63-8425-c71b451d5f29" width=40% height=40%>
 
