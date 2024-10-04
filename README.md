@@ -5,7 +5,7 @@ Shelly EM is an IoT device that connects to the home WiFi network and allows for
 
 This board will periodically query Shelly EM to retrieve power measurements from both the photovoltaic system and the meter, displaying them on LCD screen.
 
-
+# .
 <img src="https://github.com/user-attachments/assets/23b1ce46-f3b6-439a-ad1f-dfba56192962" width=60% height=60%>
 <img src="https://github.com/user-attachments/assets/5e3eedcb-6735-46ae-8a34-f188073be404" width=65% height=65%>
 
