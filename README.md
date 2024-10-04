@@ -13,6 +13,6 @@ This board will periodically query Shelly EM to retrieve power measurements from
 <img src="https://github.com/user-attachments/assets/7734bf8d-cc7c-4c63-8425-c71b451d5f29" width=40% height=40%>
 
 
-# Ringraziamenti
+# Acknowledgement
 
 
