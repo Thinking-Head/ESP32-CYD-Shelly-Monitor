@@ -18,4 +18,5 @@ This board will periodically query Shelly EM to retrieve power measurements from
 # Thanks to:
 
 Brian https://github.com/witnessmenow
+Maurizio Giunti https://mauriziogiunti.it/un-power-monitor-per-l-impianto-fotovoltaico-con-arduino
 
