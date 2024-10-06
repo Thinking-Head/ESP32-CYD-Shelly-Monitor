@@ -11,6 +11,11 @@ This board will periodically query Shelly EM to retrieve power measurements from
 # .
 <img src="https://github.com/user-attachments/assets/302a1624-cace-4747-adf0-6aba08cff229" width=35% height=35%>
 <img src="https://github.com/user-attachments/assets/7734bf8d-cc7c-4c63-8425-c71b451d5f29" width=35% height=35%>
+<img src="https://github.com/user-attachments/assets/ba69f1e6-50ea-44fc-8ca1-67af3d2052eb" width=35% height=35%>
+<img src="https://github.com/user-attachments/assets/cebbe5fe-fbdc-446f-a7bd-cc71c36cbbc5" width=35% height=35%>
+![IMG_4528-min](https://github.com/user-attachments/assets/ba69f1e6-50ea-44fc-8ca1-67af3d2052eb)
+![IMG_4530-min](https://github.com/user-attachments/assets/cebbe5fe-fbdc-446f-a7bd-cc71c36cbbc5)
+
 
 
 # Acknowledgement
