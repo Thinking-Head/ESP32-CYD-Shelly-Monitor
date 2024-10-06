@@ -19,5 +19,6 @@ This board will periodically query Shelly EM to retrieve power measurements from
 
 Brian https://github.com/witnessmenow  
 Maurizio Giunti https://mauriziogiunti.it/un-power-monitor-per-l-impianto-fotovoltaico-con-arduino  
-Davide Gatti https://www.youtube.com/@SurvivalHacking/videos
+Davide Gatti https://www.youtube.com/@SurvivalHacking/videos  
+Volos Project https://www.youtube.com/@VolosProjects
 
