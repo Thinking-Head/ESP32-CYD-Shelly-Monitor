@@ -17,4 +17,5 @@ This board will periodically query Shelly EM to retrieve power measurements from
 
 # Thanks to:
 
+https://github.com/witnessmenow
 
